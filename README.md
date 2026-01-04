@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am a student<br>studying in ccoew, 2nd year, btech entc<br>learning new things<br>making project
+I am a student<br>studying in ccoew, 2nd year, btech entc<br>
 
 
 ## 🌐 Socials:
